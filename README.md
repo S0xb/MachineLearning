@@ -1,2 +1,2 @@
 # MachineLearning
-```Some codes to understand the Machine Learning```
+```Some codes to understand Machine Learning```
